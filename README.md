@@ -27,7 +27,7 @@ Tool Moonton checker dari eastlombok team,di buat oleh sayidina ahmadal qososyi,
 ```
 4. clone tool di github.
 ```bash
-git clone https://github.com/oendnsk675/moonton_checkerCli-V2
+git clone https://github.com/bagus-prasojo/moonton_checkerCli-V2
 ```
 5. clone tool di github.
 ```bash
